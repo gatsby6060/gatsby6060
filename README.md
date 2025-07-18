@@ -4,8 +4,8 @@
 
 ### : octocat:  안녕하세요? 고랑이입니다. 👋
 
-- 🔭 지금 열심히 Git GitHub 책을 보고 있습니다.
-- 🤔 마크다운 문법도 배워야겠죠?
+- 🔭 지금 열심히 Git GitHub 보고 있습니다.
+- 🤔 마크다운 문법도 언젠간 배워야겠죠?
 - 😄 모두 함께 화이팅!
 <!--
 **gatsby6060/gatsby6060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
