@@ -72,5 +72,6 @@
 ## 📫 Contact
 - **Email**: uniline123@naver.com
 - **Phone**: 010-7125-2266
-- **Portfolio**: [(포트폴리오 링크를 여기에)](https://docs.google.com/presentation/d/1odBeM7cjl_S-UrFpN7bTaJig_9g1Hrtn0eI29ctCTvw/edit?slide=id.p#slide=id.p)
+- **Portfolio**: [(포트폴리오 링크)](https://docs.google.com/presentation/d/1sV-IinwIxqpBhKHGVUJtE9z0N6_kAhOj/edit?usp=drive_link&ouid=113771575205452676337&rtpof=true&sd=true)
+- **P.S**: 보고싶으면 연락하세요
 
