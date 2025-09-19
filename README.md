@@ -7,14 +7,15 @@
 
 <!-- 뱃지 
 <!--<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />-->
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+<!--<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />-->
+<!--<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />-->
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=fff" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" />
+<!--<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=fff" />-->
+<!--<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" />-->
+<!--<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" />-->
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
 
 </div>
