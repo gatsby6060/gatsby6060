@@ -1,77 +1,74 @@
-## Git GitHub 시작하기 zzz
+<!-- 헤더 영역 -->
+<div align="center">
 
-![badge](https://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
-
-### : octocat:  안녕하세요? 전경환입니다. 👋
-
-- 🔭 지금 열심히 Git GitHub 보고 있습니다.
-- 🤔 마크다운 문법도 언젠간 배워야겠죠?
-- 😄 모두 함께 화이팅!
-
+# 👋 안녕하세요, 전경환입니다.
 
 문제를 구조화하고, 계획적으로 실행하며, 과정을 문서화하는 풀스택 개발자입니다.
 
-            
+<!-- 뱃지 -->
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=fff" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
 
-💡 About Me
-🧑‍🏫 초등교사 출신으로 꼼꼼함과 계획력을 바탕으로 업무를 주도적으로 수행
-🧩 구조 설계부터 실행, 정리(문서화)까지 책임지는 개발자 지향
-🧠 사용자 흐름 중심의 UI/UX 구성 경험
-📚 정보처리기사 필기 합격, SQLD 및 실기 준비 중
+</div>
 
-🛠 Tech Stack
-💻 Frontend       : HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart)
-🛠 Backend        : Java(Spring Boot), Node.js(Express), Firebase(Authn, Firestore, Storage)
-🔄 비동기 통신     : Ajax, fetch, axios
-🗃 Database       : MySQL, Oracle, NoSQL(Firestore)
-☁ Server/Deploy  : Linux, AWS(EC2, RDS, S3)
-🧰 협업/기획 도구  : GitHub, Notion, Google Docs, Figma
-🧠 기타           : JWT, REST API, Recoil, Kakao Maps, LangChain
-📌 Projects
-과실제로(팀 프로젝트, 5인)
-교통사고 과실 비율 상담 서비스
-Vue3 + Spring Boot , Oracle
+---
 
-메인, 통합자료실, 회사 소개 등 주요 UI 페이지 구현
-공통 게시판 기능(에디터, 첨부파일, 페이징 등) 설계 및 개발
-변호사 후기 분석 기능(LangChain + Python + Oracle) 연동
-전체 UI 스타일 가이드 작성
-무복노트(개인 프로젝트)
-감성을 기록하는 라이더들의 SNS
-React + Express, MySQL
+### :octocat: 소개
+- 🔭 지금 열심히 Git / GitHub 공부 중입니다.  
+- 🤔 마크다운 문법도 배우는 중입니다.  
+- 😄 모두 함께 화이팅!
 
-감성 테마 UI 기획 및 전체 화면 구성
-Kakao Map 기반 경로 작성 기능 구현
-프론트/백엔드 포함 전체 기능 설계 및 구현
-랜덤어때(팀 프로젝트, 5인)
-AI 기반 랜덤 여행 추천 앱
-Flutter + Firebase(Authentication, Cloud Firestore, Storage)
+---
 
-위치 기반 스탬프 적립 기능 구현 (Geolocator + 알림/진동)
-공유 앨범 기능 구현 (Firebase Storage + 확대보기 Swiper UI)
-메인 페이지 UI
-📈 GitHub Stats
- 
+## 💡 About Me
+- 🧑‍🏫 초등교사 출신으로 꼼꼼함과 계획력을 바탕으로 업무를 주도적으로 수행  
+- 🧩 구조 설계부터 실행, 정리(문서화)까지 책임지는 개발자 지향  
+- 🧠 사용자 흐름 중심의 UI/UX 구성 경험  
+- 📚 정보처리기사 필기 합격, SQLD 및 실기 준비 중  
 
+---
 
-📫 Contact
-Email : parksebyul@gmail.com
-Phone : 010-3952-5285
-Portfolio : 포트폴리오 바로가기
+## 🛠 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart)  
+- **Backend**: Java(Spring Boot), Node.js(Express), Firebase(Auth, Firestore, Storage)  
+- **Async**: Ajax, fetch, axios  
+- **Database**: MySQL, Oracle, NoSQL(Firestore)  
+- **Server/Deploy**: Linux, AWS(EC2, RDS, S3)  
+- **Collab/Plan**: GitHub, Notion, Google Docs, Figma  
+- **Etc.**: JWT, REST API, Recoil, Kakao Maps, LangChain  
 
+---
 
+## 📌 Projects
 
-<!--
-**gatsby6060/gatsby6060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 과실제로 (팀 프로젝트, 5인) — *Vue3 + Spring Boot, Oracle*
+- 교통사고 과실 비율 상담 서비스
+- 공통 게시판 기능(에디터, 첨부, 페이징) 설계 및 개발
+- 변호사 후기 분석 (LangChain + Python + Oracle) 연동
+- 전체 UI 스타일 가이드 작성
 
-Here are some ideas to get you started:
+### 무복노트 (개인 프로젝트) — *React + Express, MySQL*
+- 감성을 기록하는 라이더들의 SNS
+- Kakao Map 기반 경로 작성 기능 구현
+- 프론트/백엔드 전체 기능 설계 및 구현
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 랜덤어때 (팀 프로젝트, 5인) — *Flutter + Firebase*
+- AI 기반 랜덤 여행 추천 앱
+- 위치 기반 스탬프 적립 (Geolocator + 알림/진동)
+- 공유 앨범 (Firebase Storage + 확대보기 Swiper UI)
+- 메인 페이지 UI
+
+---
+
+## 📫 Contact
+- **Email**: gatsby6060@example.com  
+- **Phone**: 010-XXXX-XXXX  
+- **Portfolio**: (포트폴리오 링크를 여기에)
+
