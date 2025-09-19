@@ -5,8 +5,9 @@
 
 문제를 구조화하고, 계획적으로 실행하며, 과정을 문서화하는 풀스택 개발자입니다.
 
-<!-- 뱃지 -->
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
+<!-- 뱃지 
+<!--<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />-->
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
