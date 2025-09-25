@@ -33,7 +33,7 @@
 - 🧑‍🏫 전산실 출신으로 꼼꼼함과 계획력을 바탕으로 업무를 주도적으로 수행  
 - 🧩 구조 설계부터 실행, 정리(문서화)까지 책임지는 개발자 지향  
 - 🧠 사용자 흐름 중심의 UI/UX 구성 경험  
-- 📚 정보처리기사, sqld, adsp, mos 합격, 리눅스2급, 빅분기 실기 준비 중  
+- 📚 정보처리기사, sqld, adsp, mos 합격, 리눅스2급, 빅분기 실기, 네트워크관리사2급 준비 중  
 
 ---
 
@@ -71,8 +71,8 @@
 
 ## 📫 Contact
 - **Email**: uniline123@naver.com
-- **Phone**: 010-7125-2266
+- **Phone**: 010-****-****
 - **Portfolio**: [(포트폴리오 링크1)](https://docs.google.com/presentation/d/1sV-IinwIxqpBhKHGVUJtE9z0N6_kAhOj/edit?usp=drive_link&ouid=113771575205452676337&rtpof=true&sd=true)
 - **Portfolio**: [(포트폴리오 링크2)](https://docs.google.com/presentation/d/1gewNOo-Cuxz6Y7Q23yQz033s2znQup-S/edit?usp=drive_link&ouid=113771575205452676337&rtpof=true&sd=true)
-- **P.S**: 보고싶으면 (햄버거세트 2개준비하고) 연락하세요
+- **P.S**: 보고싶으면 연락하세요
 
