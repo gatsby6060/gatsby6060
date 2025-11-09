@@ -60,6 +60,7 @@
 - 고객간 소개를 위한 고객관리시스템
 - 주소API기반 위경도 산출 Naver Map상 고객 위치 표시
 - 프론트/백엔드 전체 기능 설계 및 구현
+- https://github.com/gatsby6060/vue_express_20250908
 
 <!-- ### 랜덤어때 (팀 프로젝트, 5인) — *Flutter + Firebase*
 - AI 기반 랜덤 여행 추천 앱
