@@ -45,7 +45,6 @@
 - **Server/Deploy**: Linux  
 - **Collab/Plan**: GitHub  
 - **Etc.**: REST API, NAVAER Maps
-- **Etc.**: REST API, NAVAER Maps  
 
 ---
 
