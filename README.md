@@ -925,8 +925,8 @@ KAKAO_REST_API_KEY=your_kakao_rest_api_key
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Contact
 - **Email**: uniline123@naver.com
-- **Phone**: 010-****-****
-- **Portfolio**: [(포트폴리오 링크1)](https://docs.google.com/presentation/d/1sV-IinwIxqpBhKHGVUJtE9z0N6_kAhOj/edit?usp=drive_link&ouid=113771575205452676337&rtpof=true&sd=true)
+<!-- - **Phone**: 010-****-****  -->
+<!-- - **Portfolio**: [(포트폴리오 링크1)](https://docs.google.com/presentation/d/1sV-IinwIxqpBhKHGVUJtE9z0N6_kAhOj/edit?usp=drive_link&ouid=113771575205452676337&rtpof=true&sd=true) -->
 <!-- - **Portfolio**: [(포트폴리오 링크2)](https://docs.google.com/presentation/d/1gewNOo-Cuxz6Y7Q23yQz033s2znQup-S/edit?usp=drive_link&ouid=113771575205452676337&rtpof=true&sd=true) -->
-- **P.S**: 보고싶으면 연락하세요
+<!-- - **P.S**: 보고싶으면 연락하세요 -->
 
