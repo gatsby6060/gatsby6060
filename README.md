@@ -589,7 +589,13 @@ RUNNERS HOUSE는 러너들이 자신의 이야기를 나누고, 제품을 구매
 
 <!--</p>-->
 
-![전체화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/전체화면.JPG)
+<!--![전체화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/전체화면.JPG)-->
+
+<p align="center">
+  <img src="https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/전체화면.JPG" alt="전체화면" width="800" />
+</p>
+
+
 
 > 우리의 일상을 기록하고 공유.
 
