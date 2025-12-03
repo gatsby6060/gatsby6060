@@ -589,7 +589,7 @@ RUNNERS HOUSE는 러너들이 자신의 이야기를 나누고, 제품을 구매
 
 <!--</p>-->
 
-![전체화면](readmeIMG/전체화면.JPG)
+![전체화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/전체화면.JPG)
 
 > 우리의 일상을 기록하고 공유.
 
@@ -636,7 +636,7 @@ Instagram의 직관적이고 깔끔한 UI/UX를 참고하여, 사용자가 게�
 
 | 로그인 | 회원가입 |
 |---------|---------|
-| ![로그인 화면](readmeIMG/로그인화면.JPG) | ![회원가입 화면](readmeIMG/회원가입화면.JPG) |
+| ![로그인 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/로그인화면.JPG) | ![회원가입 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/회원가입화면.JPG) |
 
 - 일반 로그인 (아이디/비밀번호)
 - 카카오 소셜 로그인
@@ -647,7 +647,7 @@ Instagram의 직관적이고 깔끔한 UI/UX를 참고하여, 사용자가 게�
 
 | 홈 피드 | 게시물 상세보기 |
 |---------|---------|
-| ![홈 피드 화면](readmeIMG/홈피드화면.JPG) | ![게시물 상세보기 화면](readmeIMG/게시물상세보기화면.JPG) |
+| ![홈 피드 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/홈피드화면.JPG) | ![게시물 상세보기 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/게시물상세보기화면.JPG) |
 
 - 좌측 사이드바 (홈, 검색, 탐색, 메시지, 프로필)
 - 우측 추천 사용자 목록
@@ -657,7 +657,7 @@ Instagram의 직관적이고 깔끔한 UI/UX를 참고하여, 사용자가 게�
 
 ### 3. 탐색 페이지
 
-![탐색 페이지 화면](readmeIMG/탐색페이지화면.JPG)
+![탐색 페이지 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/탐색페이지화면.JPG)
 
 - 모든 게시물을 그리드 형태로 탐색
 - 게시물 클릭 시 상세보기 모달 표시
@@ -665,7 +665,7 @@ Instagram의 직관적이고 깔끔한 UI/UX를 참고하여, 사용자가 게�
 
 ### 4. 검색 페이지
 
-![검색 페이지 화면](readmeIMG/검색페이지화면.JPG)
+![검색 페이지 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/검색페이지화면.JPG)
 
 - 사용자 검색 기능
 - 소개글(intro) 또는 사용자명으로 검색
@@ -675,7 +675,7 @@ Instagram의 직관적이고 깔끔한 UI/UX를 참고하여, 사용자가 게�
 
 | 내 프로필 | 다른 유저 프로필 |
 |---------|---------|
-| ![내 프로필 화면](readmeIMG/내프로필화면.JPG) | ![다른 유저 프로필 화면](readmeIMG/다른유저프로필.JPG) |
+| ![내 프로필 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/내프로필화면.JPG) | ![다른 유저 프로필 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/다른유저프로필.JPG) |
 
 - 프로필 정보 표시 (게시물 수, 팔로워, 팔로잉)
 - 게시물 그리드 뷰
@@ -687,7 +687,7 @@ Instagram의 직관적이고 깔끔한 UI/UX를 참고하여, 사용자가 게�
 
 | 게시물 작성 | 프로필 편집 |
 |---------|---------|
-| ![게시물 작성 화면](readmeIMG/게시물작성.JPG) | ![프로필 편집 화면](readmeIMG/프로필편집.JPG) |
+| ![게시물 작성 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/게시물작성.JPG) | ![프로필 편집 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/프로필편집.JPG) |
 
 - 이미지/동영상 업로드
 - 게시물 내용 작성
@@ -696,7 +696,7 @@ Instagram의 직관적이고 깔끔한 UI/UX를 참고하여, 사용자가 게�
 
 ### 7. 메시지 (DM)
 
-![메시지 화면](readmeIMG/메세지.JPG)
+![메시지 화면](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/메세지.JPG)
 
 - 실시간 메시지 기능
 - 채팅방 목록 조회
