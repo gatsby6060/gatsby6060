@@ -142,9 +142,9 @@
 [![날씨기반행동추천앱](https://github.com/hyeokjun9035/flutter_image/blob/main/final_main.png)](https://github.com/hyeokjun9035/flutterproject_team2)
 
 - 날씨기반 행동추천 앱
-- Vue + Node.js + Oracle
-- 사장/직원/고객 권한 분리, 결제 후 정보 열람
-- 주소 기반 위경도 변환 및 지도 표시
+- Flutter + Firebase
+- 사고나 이슈가 발생시 반경 2km 이내 사용자에게 알림
+- 본인이 원하는 장소 저장시 최소 시간 루트 확인 가능
 
 👉 **[프로젝트 상세 보기](https://github.com/hyeokjun9035/flutterproject_team2)**
 <br>
