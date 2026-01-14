@@ -139,7 +139,7 @@
 
 
 ### 🧑‍💼 플루터 (플루터 앱)
-[![날씨기반행동추천앱](https://github.com/hyeokjun9035/flutter_image/blob/main/final_main.png)](https://github.com/hyeokjun9035/flutterproject_team2)
+[![날씨기반행동추천앱](https://github.com/hyeokjun9035/flutter_image/blob/main/one.png)](https://github.com/hyeokjun9035/flutterproject_team2)
 
 - 날씨기반 행동추천 앱
 - Flutter + Firebase
