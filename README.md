@@ -86,27 +86,23 @@
 <br>
 
 
+### 🧑‍💼 고객관리시스템 (개인 프로젝트, 소개팅,결정사)
+[![고객관리시스템](https://github.com/gatsby6060/vue_express_20250908/blob/main/resultphotos/login.png?raw=true)](https://github.com/gatsby6060/vue_express_20250908)
+
+- 고객 소개 및 결제 기반 열람 시스템
+- Vue + Node.js + Oracle
+- 사장/직원/고객 권한 분리, 결제 후 정보 열람
+- 주소 기반 위경도 변환 및 지도 표시
+
+👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/vue_express_20250908)**
+<br>
+<br>
+<br>
 
 
 ---
 
-## 📌 Projects
-
-### 📸 Instagram SNS (개인 프로젝트)
-[![Instagram SNS](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/%EC%A0%84%EC%B2%B4%ED%99%94%EB%A9%B4.JPG?raw=true)](https://github.com/gatsby6060/react-sns-jgh251125)
-
-- Instagram UI/UX 기반 SNS 웹 애플리케이션
-- 피드 · 좋아요 · 댓글 · 검색 · DM · 프로필 기능 구현
-- React + Express + MySQL, JWT 인증, 이미지/동영상 업로드
-
-👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/react-sns-jgh251125)**
-<br>
-<br>
-<br>
-
----
-
-### 🏃 RUNNERS’ HOUSE (팀 프로젝트)
+### 🏃 RUNNERS’ HOUSE (팀 프로젝트, 쇼핌몰)
 [![RUNNERS HOUSE](https://github.com/user-attachments/assets/c1376fb2-4dc3-4f59-9620-8d3e374160c6)](https://github.com/kkomi211/springProject2025)
 
 - 러닝 커뮤니티 + 쇼핑 플랫폼 (5인 팀 프로젝트)
@@ -124,21 +120,27 @@
 
 ---
 
-### 🧑‍💼 고객관리시스템 (개인 프로젝트)
-[![고객관리시스템](https://github.com/gatsby6060/vue_express_20250908/blob/main/resultphotos/login.png?raw=true)](https://github.com/gatsby6060/vue_express_20250908)
+## 📌 Projects
 
-- 고객 소개 및 결제 기반 열람 시스템
-- Vue + Node.js + Oracle
-- 사장/직원/고객 권한 분리, 결제 후 정보 열람
-- 주소 기반 위경도 변환 및 지도 표시
+### 📸 Instagram SNS (개인 프로젝트, SNS)
+[![Instagram SNS](https://github.com/gatsby6060/react-sns-jgh251125/blob/main/readmeIMG/%EC%A0%84%EC%B2%B4%ED%99%94%EB%A9%B4.JPG?raw=true)](https://github.com/gatsby6060/react-sns-jgh251125)
 
-👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/vue_express_20250908)**
+- Instagram UI/UX 기반 SNS 웹 애플리케이션
+- 피드 · 좋아요 · 댓글 · 검색 · DM · 프로필 기능 구현
+- React + Express + MySQL, JWT 인증, 이미지/동영상 업로드
+
+👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/react-sns-jgh251125)**
 <br>
 <br>
 <br>
 
 
-### 🧑‍💼 플루터 (플루터 앱)
+
+---
+
+
+
+### 🧑‍💼 플루터 (플루터 앱, 날씨앱)
 [![날씨기반행동추천앱](https://github.com/hyeokjun9035/flutter_image/blob/main/one.png)](https://github.com/hyeokjun9035/flutterproject_team2)
 
 - 날씨기반 행동추천 앱
