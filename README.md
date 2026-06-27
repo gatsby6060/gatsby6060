@@ -161,5 +161,5 @@
 - **GitHub**: https://github.com/gatsby6060
 - **portfolio**: https://drive.google.com/file/d/1EMX0Xzde3D5J60Lkyz0twdthFT1sker_/view?usp=sharing
 - **경력기술서**: https://drive.google.com/file/d/1enJSb8SvVOcMqhmiQPoL_SK-GLZePTQF/view?usp=sharing
-- *Notion 도커+카프카+쇼핑몰 *: https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a
-- *Notion n8n*: https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a
+- **Notion 도커+카프카+쇼핑몰**: https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a
+- **Notion n8n**: https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a
