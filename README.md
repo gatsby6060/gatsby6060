@@ -25,11 +25,11 @@
 | 구분 | 기술 |
 |------|------|
 | **AI / Automation** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
-| **Backend** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)|
-| **Tools** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Collaboration** | ![Kakao](https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)   ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | 
+| **Backend** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Collaboration** | ![Kakao](https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 <br>
 
@@ -39,8 +39,7 @@
 
 ### 🪙 BTC/ETH 실시간 자동매매 + LangGraph AI 에이전트 (개인 프로젝트)
 [![260616_bitsum](https://img.shields.io/badge/GitHub-260616__bitsum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/260616_bitsum)
-[![실시간 자동매매 + LangGraph AI 에이전트](https://github.com/gatsby6060/260616_bitsum/blob/main/main1.png?raw=true )](https://github.com/gatsby6060/260616_bitsum )
-
+[![실시간 자동매매 대시보드](https://github.com/gatsby6060/260616_bitsum/blob/main/main1.png?raw=true)](https://github.com/gatsby6060/260616_bitsum)
 
 - **BTC/ETH 다중 타임프레임(일봉·시간봉·분봉) 분석 기반 자동매매 시스템** 구축
 - **LangGraph `StateGraph`** 를 활용하여 매매 체결 이벤트 발생 시 LLM(Gemini/OpenAI)이 매매 이유를 자동 분석하고 텔레그램·이메일로 알림을 발송하는 **AI 에이전트 파이프라인** 설계 및 구현
@@ -57,16 +56,15 @@
 
 ---
 
-
-
----
+## 📌 Projects
 
 ### 🛒 ShopMall - 풀스택 쇼핑몰 + Kafka + ELK (개인 프로젝트)
-[![jghshopmall](https://img.shields.io/badge/GitHub-jghshopmall-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/gatsby6060/jghshopmall )
-[![ShopMall 메인화면](https://github.com/gatsby6060/jghshopmall/blob/main/mobliemain.png?raw=true )](https://github.com/gatsby6060/jghshopmall )
+[![jghshopmall](https://img.shields.io/badge/GitHub-jghshopmall-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/jghshopmall)
+[![ShopMall 메인화면](https://github.com/gatsby6060/jghshopmall/blob/main/mobliemain.png?raw=true)](https://github.com/gatsby6060/jghshopmall)
 
 - **Java 21 + Spring Boot 3.5 + Next.js 15** 기반 현대적인 풀스택 쇼핑몰 애플리케이션
 - **Apache Kafka** 를 활용하여 결제 완료 시 `payment-events` 토픽으로 이벤트를 발행(Producer)하고, Consumer가 수신하여 결제 이력을 비동기 처리하는 **이벤트 드리븐 아키텍처** 구현 (파티션 3개, 레플리카 3개 구성)
+- **Aho-Corasick 알고리즘** 기반 욕설 필터(`AhoCorasickFilter`)를 직접 구현하여 검색어 입력 시 금칙어를 실시간으로 차단하고, DB 관리형 금칙어 목록과 화이트리스트를 관리자 페이지에서 동적으로 제어 가능하도록 설계
 - **ngrok**을 활용하여 로컬 개발 환경에서 토스페이먼츠 결제 Webhook을 실제 외부 서버로 수신하는 **실환경 결제 테스트** 진행
 - **Docker Compose** 멀티 스테이지 빌드로 Backend / Frontend / MariaDB / Kafka / Elasticsearch / Logstash 전체 컨테이너 오케스트레이션
 - JWT + OAuth2(Google, Naver, Kakao) 소셜 로그인, Spring Security 기반 인증/인가
@@ -74,16 +72,12 @@
 
 **Tech Stack**: `Java 21` `Spring Boot 3.5` `Next.js 15` `TypeScript` `Kafka` `Elasticsearch` `Logstash` `Docker` `MariaDB` `JWT` `OAuth2` `ngrok`
 
-👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/jghshopmall )**
-  
+👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/jghshopmall)**
+<br>
+<br>
+<br>
 
-  
-
-  
 ---
-
-
-## 📌 Projects
 
 ### 🧑‍💼 고객관리시스템 (개인 프로젝트, 소개팅, 결정사)
 [![고객관리시스템](https://github.com/gatsby6060/vue_express_20250908/blob/main/resultphotos/login.png?raw=true)](https://github.com/gatsby6060/vue_express_20250908)
@@ -97,7 +91,6 @@
 <br>
 <br>
 <br>
-
 
 ---
 
@@ -116,7 +109,6 @@
 <br>
 <br>
 
-
 ---
 
 ### 📸 Instagram SNS (개인 프로젝트, SNS)
@@ -130,7 +122,6 @@
 <br>
 <br>
 <br>
-
 
 ---
 
@@ -146,7 +137,6 @@
 <br>
 <br>
 <br>
-
 
 ---
 
