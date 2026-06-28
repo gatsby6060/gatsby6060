@@ -44,7 +44,7 @@
 - **BTC/ETH 다중 타임프레임(일봉·시간봉·분봉) 분석 기반 자동매매 시스템** 구축
 - **LangGraph `StateGraph`** 를 활용하여 매매 체결 이벤트 발생 시 LLM(Gemini/OpenAI)이 매매 이유를 자동 분석하고 텔레그램·이메일로 알림을 발송하는 **AI 에이전트 파이프라인** 설계 및 구현
 - **n8n Webhook 연동**으로 매매 체결 데이터를 Google Sheets에 자동 기록하는 Event-Driven 자동화 파이프라인 구축
-- WebSocket 실시간 시세 수신 + `threading` + `queue` 기반 **멀티스레딩 이벤트 처리 엔진** 직접 설계
+- WebSocket 실시간 시세 수신 + `threading` + `queue` 기반 **멀티스레딩 이벤트 처리 엔진** 설계
 - **FastAPI** 기반 RESTful API 및 WebSocket 브로드캐스트 서버, 웹 대시보드 구현
 - 시장 국면(Bull/Bear/Range) 자동 감지 및 전략 동적 전환, 손절/익절 리스크 관리 모듈 포함
 
