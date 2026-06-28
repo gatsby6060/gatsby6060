@@ -39,6 +39,8 @@
 
 ### 🪙 BTC/ETH 실시간 자동매매 + LangGraph AI 에이전트 (개인 프로젝트)
 [![260616_bitsum](https://img.shields.io/badge/GitHub-260616__bitsum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/260616_bitsum)
+[![실시간 자동매매 + LangGraph AI 에이전트](https://github.com/gatsby6060/260616_bitsum/blob/main/main1.png?raw=true )](https://github.com/gatsby6060/260616_bitsum )
+
 
 - **BTC/ETH 다중 타임프레임(일봉·시간봉·분봉) 분석 기반 자동매매 시스템** 구축
 - **LangGraph `StateGraph`** 를 활용하여 매매 체결 이벤트 발생 시 LLM(Gemini/OpenAI)이 매매 이유를 자동 분석하고 텔레그램·이메일로 알림을 발송하는 **AI 에이전트 파이프라인** 설계 및 구현
