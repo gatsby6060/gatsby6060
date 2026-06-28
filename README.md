@@ -59,20 +59,24 @@
 
 
 
-### 🛒 ShopMall - 풀스택 쇼핑몰 (개인 프로젝트)
+---
+
+### 🛒 ShopMall - 풀스택 쇼핑몰 + Kafka + ELK (개인 프로젝트)
 [![jghshopmall](https://img.shields.io/badge/GitHub-jghshopmall-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/gatsby6060/jghshopmall )
 [![ShopMall 메인화면](https://github.com/gatsby6060/jghshopmall/blob/main/mobliemain.png?raw=true )](https://github.com/gatsby6060/jghshopmall )
 
 - **Java 21 + Spring Boot 3.5 + Next.js 15** 기반 현대적인 풀스택 쇼핑몰 애플리케이션
-- **Docker Compose** 멀티 스테이지 빌드로 Backend / Frontend / DB 전체 컨테이너 오케스트레이션
+- **Apache Kafka** 를 활용하여 결제 완료 시 `payment-events` 토픽으로 이벤트를 발행(Producer)하고, Consumer가 수신하여 결제 이력을 비동기 처리하는 **이벤트 드리븐 아키텍처** 구현 (파티션 3개, 레플리카 3개 구성)
+- **ngrok**을 활용하여 로컬 개발 환경에서 토스페이먼츠 결제 Webhook을 실제 외부 서버로 수신하는 **실환경 결제 테스트** 진행
+- **Docker Compose** 멀티 스테이지 빌드로 Backend / Frontend / MariaDB / Kafka / Elasticsearch / Logstash 전체 컨테이너 오케스트레이션
 - JWT + OAuth2(Google, Naver, Kakao) 소셜 로그인, Spring Security 기반 인증/인가
-- 토스페이먼츠 결제 위젯 연동, 카카오 지도 API 연동
 - 관리자 대시보드(상품·카테고리·주문·회원 관리), 마이페이지, 상품 검색/필터/정렬 구현
-- JPA 지연 로딩(LAZY), Zustand 전역 상태 관리, TanStack Query 서버 상태 관리 적용
 
-**Tech Stack**: `Java 21` `Spring Boot 3.5` `Next.js 15` `TypeScript` `Tailwind CSS` `MariaDB` `Docker` `JWT` `OAuth2`
+**Tech Stack**: `Java 21` `Spring Boot 3.5` `Next.js 15` `TypeScript` `Kafka` `Elasticsearch` `Logstash` `Docker` `MariaDB` `JWT` `OAuth2` `ngrok`
 
 👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/jghshopmall )**
+  
+
   
 
   
