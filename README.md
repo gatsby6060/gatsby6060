@@ -62,7 +62,7 @@
 [![jghshopmall](https://img.shields.io/badge/GitHub-jghshopmall-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/jghshopmall)
 [![ShopMall 메인화면](https://github.com/gatsby6060/jghshopmall/blob/main/mobliemain.png?raw=true)](https://github.com/gatsby6060/jghshopmall)
 
-- **Java 21 + Spring Boot 3.5 + Next.js 15** 기반 현대적인 풀스택 쇼핑몰 애플리케이션
+- **Java 21 + Spring Boot 3.5 + Next.js 15** 기반 기존대비 기능 향상된 풀스택 쇼핑몰 애플리케이션
 - **Apache Kafka** 를 활용하여 결제 완료 시 `payment-events` 토픽으로 이벤트를 발행(Producer)하고, Consumer가 수신하여 결제 이력을 비동기 처리하는 **이벤트 드리븐 아키텍처** 구현 (파티션 3개, 레플리카 3개 구성)
 - **Aho-Corasick 알고리즘** 기반 욕설 필터(`AhoCorasickFilter`)를 직접 구현하여 검색어 입력 시 금칙어를 실시간으로 차단하고, DB 관리형 금칙어 목록과 화이트리스트를 관리자 페이지에서 동적으로 제어 가능하도록 설계
 - **ngrok**을 활용하여 로컬 개발 환경에서 토스페이먼츠 결제 Webhook을 실제 외부 서버로 수신하는 **실환경 결제 테스트** 진행
