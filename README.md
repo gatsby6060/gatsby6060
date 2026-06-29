@@ -3,18 +3,18 @@
 
 # 👋 안녕하세요. 전경환입니다.
 
-문제를 확인하고, 해결하며, 공유하는 풀스택 개발자입니다.
+**문제를 확인하고, 해결하며, AI Agent 파이프라인으로 시스템의 한계를 극복하는 풀스택/AI Agent 개발자입니다.**
 
 </div>
 
 ---
 
 ## 💡 About Me
-- 🧑‍🏫 전산실 출신으로 꼼꼼함과 계획력을 바탕으로 업무를 주도적으로 수행  
-- 🧩 구조 설계부터 실행, 정리(문서화)까지 책임지는 개발자 지향  
-- 🧠 사용자 흐름 중심의 UI/UX 구성 경험  
-- 🤖 LangGraph 기반 AI 에이전트 파이프라인 설계 및 실시간 자동화 시스템 구축 경험  
-- 📚 정보처리기사, SQLD, 리눅스마스터2급, ADsP, MOS 마스터, BSCM 합격, 빅분기 필기합격  
+- 🧑‍🏫 **전산실 출신**으로 꼼꼼함과 계획력을 바탕으로 업무를 주도적으로 수행
+- 🤖 **AI Agent 파이프라인 설계 특화**: LangGraph `StateGraph` 기반 Multi-Agent 시스템 설계, LangChain을 활용한 LLM 서비스 구현, n8n을 통한 외부 시스템 연계 자동화 경험
+- 🧩 **Event-Driven 아키텍처 구축**: Kafka, Webhook, WebSocket 기반 실시간 데이터 처리 및 분산 시스템 설계 경험
+- 🧠 사용자 흐름 중심의 UI/UX 구성 및 구조 설계부터 실행, 문서화까지 책임지는 개발자 지향
+- 📚 정보처리기사, SQLD, 리눅스마스터2급, ADsP, MOS 마스터, BSCM 합격, 빅분기 필기합격
 
 
 ---
@@ -24,7 +24,7 @@
 ## 🖥️ **기술 스택**
 | 구분 | 기술 |
 |------|------|
-| **AI / Automation** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
+| **AI / Agent** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
 | **Backend** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
 | **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
@@ -37,16 +37,29 @@
 
 ## 🤖 AI Agent / Automation Projects
 
-### 🪙 BTC/ETH 실시간 자동매매 + LangGraph AI 에이전트 (개인 프로젝트)
+### 🪙 BTC/ETH 실시간 자동매매 + LangGraph Multi-Agent 시스템 (개인 프로젝트)
 [![260616_bitsum](https://img.shields.io/badge/GitHub-260616__bitsum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/260616_bitsum)
 [![실시간 자동매매 대시보드](https://github.com/gatsby6060/260616_bitsum/blob/main/main1.png?raw=true)](https://github.com/gatsby6060/260616_bitsum)
 
-- **BTC/ETH 다중 타임프레임(일봉·시간봉·분봉) 분석 기반 자동매매 시스템** 구축
-- **LangGraph `StateGraph`** 를 활용하여 매매 체결 이벤트 발생 시 LLM(Gemini/OpenAI)이 매매 이유를 자동 분석하고 텔레그램·이메일로 알림을 발송하는 **AI 에이전트 파이프라인** 설계 및 구현
-- **n8n Webhook 연동**으로 매매 체결 데이터를 Google Sheets에 자동 기록하는 Event-Driven 자동화 파이프라인 구축
-- WebSocket 실시간 시세 수신 + `threading` + `queue` 기반 **멀티스레딩 이벤트 처리 엔진** 설계
+**BTC/ETH 실시간 시세 분석 → 자동 매매 체결 → AI 사후 분석 → 외부 시스템 연계 알림까지 전 과정을 자동화한 AI Agent 기반 트레이딩 시스템**
+
+#### 🔷 LangGraph 기반 Multi-Agent 파이프라인 설계
+- **`StateGraph`를 활용한 Sub-Agent 협력 워크플로우 구현**: 매매 체결 이벤트 발생 시 `AgentState`(TypedDict)로 상태를 공유하며 `analyze_trade` → `notify_telegram` → `notify_email` 순서로 에이전트 노드가 순차 실행되는 파이프라인 설계
+- **분석 에이전트(Analyze Agent)**: LangChain `SystemMessage` / `HumanMessage` 기반으로 Gemini(기본) 또는 OpenAI가 시장 상황, 매매 이유, 리스크를 자동 분석
+- **알림 에이전트(Notify Agent)**: 분석 결과를 텔레그램 Bot API 및 Gmail SMTP로 전송하는 서브 에이전트 분리 구현
+- **코드 에이전트(Code Agent) 활용**: Cursor AI 코드 에이전트를 협업 도구로 활용하여 복잡한 백테스트 로직 및 전략 최적화 코드 자동 생성 및 리팩토링 수행 (41 commits 이상 협업 기록)
+
+#### 🔷 n8n 기반 외부 시스템 연계 자동화
+- **n8n Webhook → Telegram → Google Sheets 파이프라인**: 매매 체결 데이터를 n8n Webhook으로 수신하여 텔레그램 알림 전송과 Google Sheets 매매 일지 자동 기록을 동시 처리하는 **노드 기반 시각적 자동화 파이프라인** 구축 완료
+- **Legacy 시스템 연계 설계**: TradingView 웹훅 → n8n → FastAPI `/api/tickers/control` 호출 구조로 외부 시그널을 내부 매매 엔진에 연계하는 아키텍처 설계
+- **Fallback 전략**: `N8N_WEBHOOK_URL` 미설정 시 로컬 LangGraph 알림으로 자동 폴백하는 안정성 확보
+- 👉 **[n8n 연동 실습 기록 (Notion)](https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a)**
+
+#### 🔷 실시간 처리 및 시스템 아키텍처
+- **WebSocket 실시간 시세 수신 + `threading` + `queue` 기반 멀티스레딩 이벤트 처리 엔진** 설계
 - **FastAPI** 기반 RESTful API 및 WebSocket 브로드캐스트 서버, 웹 대시보드 구현
 - 시장 국면(Bull/Bear/Range) 자동 감지 및 전략 동적 전환, 손절/익절 리스크 관리 모듈 포함
+- BTC/ETH 다중 타임프레임(일봉·시간봉·분봉) 분석 기반 자동매매 시스템 구축
 
 **Tech Stack**: `Python` `FastAPI` `LangGraph` `LangChain` `Gemini API` `OpenAI API` `WebSocket` `n8n` `Pandas` `NumPy`
 
