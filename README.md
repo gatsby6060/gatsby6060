@@ -37,32 +37,32 @@
 
 ## 🤖 AI Agent / Automation Projects
 
-### 🪙 BTC/ETH 실시간 자동매매 + LangGraph Multi-Agent 시스템 (개인 프로젝트)
+### 🪙 BTC/ETH 실시간 자동매매 & GPU 최적화 퀀트 봇 (Multi-Agent 시스템)
 [![260616_bitsum](https://img.shields.io/badge/GitHub-260616__bitsum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/260616_bitsum)
 [![실시간 자동매매 대시보드](https://github.com/gatsby6060/260616_bitsum/blob/main/main1.png?raw=true)](https://github.com/gatsby6060/260616_bitsum)
 
-**BTC/ETH 실시간 시세 분석 → 자동 매매 체결 → AI 사후 분석 → 외부 시스템 연계 알림까지 전 과정을 자동화한 AI Agent 기반 트레이딩 시스템**
+**실시간 시세 분석부터 자동 매매, AI 사후 분석, n8n 외부 연계까지 전 과정을 자동화하고, GPU 가속 기반의 초고속 빅데이터 백테스팅 환경을 구축한 AI 퀀트 트레이딩 시스템입니다.**
 
-#### 🔷 LangGraph 기반 Multi-Agent 파이프라인 설계
-- **`StateGraph`를 활용한 Sub-Agent 협력 워크플로우 구현**: 매매 체결 이벤트 발생 시 `AgentState`(TypedDict)로 상태를 공유하며 `analyze_trade` → `notify_telegram` → `notify_email` 순서로 에이전트 노드가 순차 실행되는 파이프라인 설계
-- **분석 에이전트(Analyze Agent)**: LangChain `SystemMessage` / `HumanMessage` 기반으로 Gemini(기본) 또는 OpenAI가 시장 상황, 매매 이유, 리스크를 자동 분석
-- **알림 에이전트(Notify Agent)**: 분석 결과를 텔레그램 Bot API 및 Gmail SMTP로 전송하는 서브 에이전트 분리 구현
-- **코드 에이전트(Code Agent) 활용**: Cursor AI 코드 에이전트를 협업 도구로 활용하여 복잡한 백테스트 로직 및 전략 최적화 코드 자동 생성 및 리팩토링 수행 (41 commits 이상 협업 기록)
+#### 🔷 LangGraph 기반 Multi-Agent 파이프라인
+- **Sub-Agent 협력 워크플로우**: 매매 체결 시 `StateGraph`로 상태를 공유하며, 분석 에이전트(Analyze)와 알림 에이전트(Notify)가 순차적으로 실행되는 유기적 파이프라인 구축.
+- **AI 사후 분석**: Gemini 및 OpenAI를 연동해 시장 상황, 매매 이유, 리스크 요인을 자동으로 분석하여 인사이트 도출.
+- **AI 협업(Code Agent)**: Cursor AI를 활용해 복잡한 백테스트 로직 및 전략 코드를 자동 생성하고 지속적으로 리팩토링 (41+ commits).
+
+#### 🔷 GPU 가속(CuPy) 기반 초고속 백테스팅 & 최적화
+- **대규모 연산 최적화**: 기존 CPU로 수일이 소요되던 10년 치 데이터(105만 개 5분봉 캔들) 전수조사를 CuPy(CUDA) 병렬 처리로 획기적으로 단축.
+- **지능형 아키텍처**: 사용자 PC의 GPU 유무를 감지해 CuPy/NumPy로 동적 전환되며, 멀티프로세싱 워커와 청크 사이즈를 조절해 OOM(메모리 초과) 현상을 방지하는 메모리 밸런스 튜닝 적용.
+
+#### 🔷 고성능 실시간 트레이딩 엔진
+- **안정적인 비동기 처리**: WebSocket(실시간 시세) + `threading`/`queue` 기반의 멀티스레딩 이벤트 처리 아키텍처 및 FastAPI 기반 REST/WebSocket 통합 서버 설계.
+- **동적 리스크 관리**: 다중 타임프레임(일/시/분봉) 분석 및 시장 국면(Bull/Bear/Range) 자동 감지를 통해 모의투자에서 검증된 전략(RSI, MACD, BB 등)을 실전 매매에 안전하게 적용.
 
 #### 🔷 n8n 기반 외부 시스템 연계 자동화
-- **n8n Webhook → Telegram → Google Sheets 파이프라인**: 매매 체결 데이터를 n8n Webhook으로 수신하여 텔레그램 알림 전송과 Google Sheets 매매 일지 자동 기록을 동시 처리하는 **노드 기반 시각적 자동화 파이프라인** 구축 완료
-- **Legacy 시스템 연계 설계**: TradingView 웹훅 → n8n → FastAPI `/api/tickers/control` 호출 구조로 외부 시그널을 내부 매매 엔진에 연계하는 아키텍처 설계
-- **Fallback 전략**: `N8N_WEBHOOK_URL` 미설정 시 로컬 LangGraph 알림으로 자동 폴백하는 안정성 확보
-- 👉 **[n8n 연동 실습 기록 (Notion)](https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a)**
+- **시각적 데이터 파이프라인**: 매매 데이터를 n8n Webhook으로 수신하여 텔레그램 알림 발송과 Google Sheets 매매 일지 자동 기록을 동시 처리.
+- **유연한 확장 및 안정성**: TradingView 외부 시그널 연계(FastAPI `/api/tickers/control`) 구조 설계 및 n8n 미설정 시 로컬 알림으로 우회하는 Fallback 전략 적용. 👉 **[(n8n 연동 실습 기록)](https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a)**
 
-#### 🔷 실시간 처리 및 시스템 아키텍처
-- **WebSocket 실시간 시세 수신 + `threading` + `queue` 기반 멀티스레딩 이벤트 처리 엔진** 설계
-- **FastAPI** 기반 RESTful API 및 WebSocket 브로드캐스트 서버, 웹 대시보드 구현
-- 시장 국면(Bull/Bear/Range) 자동 감지 및 전략 동적 전환, 손절/익절 리스크 관리 모듈 포함
-- BTC/ETH 다중 타임프레임(일봉·시간봉·분봉) 분석 기반 자동매매 시스템 구축
+> *"거대한 데이터를 빠르고 안정적으로 다루는 기술, 극한의 최적화로 한계를 돌파하는 것을 즐깁니다."*
 
-**Tech Stack**: `Python` `FastAPI` `LangGraph` `LangChain` `Gemini API` `OpenAI API` `WebSocket` `n8n` `Pandas` `NumPy`
-
+**Tech Stack**: `Python`, `FastAPI`, `CuPy / NumPy`, `LangGraph`, `LangChain`, `Gemini / OpenAI API`, `WebSocket`, `n8n`, `Pandas`  
 👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/260616_bitsum)**
 <br>
 <br>
