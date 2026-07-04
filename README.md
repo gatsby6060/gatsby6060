@@ -60,7 +60,7 @@
 - **시각적 데이터 파이프라인**: 매매 데이터를 n8n Webhook으로 수신하여 텔레그램 알림 발송과 Google Sheets 매매 일지 자동 기록을 동시 처리.
 - **유연한 확장 및 안정성**: TradingView 외부 시그널 연계(FastAPI `/api/tickers/control`) 구조 설계 및 n8n 미설정 시 로컬 알림으로 우회하는 Fallback 전략 적용. 👉 **[(n8n 연동 실습 기록)](https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a)**
 
-> *"거대한 데이터를 빠르고 안정적으로 다루는 기술, 극한의 최적화로 한계를 돌파하는 것을 즐깁니다."*
+> *"거대한 데이터를 빠르고 안정적으로 다루는 기술, 극한의 최적화로 스스로의 한계를 돌파하는 것을 즐깁니다."*
 
 **Tech Stack**: `Python`, `FastAPI`, `CuPy / NumPy`, `LangGraph`, `LangChain`, `Gemini / OpenAI API`, `WebSocket`, `n8n`, `Pandas`  
 👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/260616_bitsum)**
