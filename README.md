@@ -37,7 +37,7 @@
 
 ## 🤖 AI Agent / Automation Projects
 
-### 🪙 BTC/ETH 실시간 자동매매 & GPU 최적화 퀀트 봇 (Multi-Agent 시스템)
+### 🪙 BTC/ETH/XRP/USDT 실시간 자동매매 & GPU 최적화 퀀트 봇 (Multi-Agent 시스템)
 [![260616_bitsum](https://img.shields.io/badge/GitHub-260616__bitsum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/260616_bitsum)
 [![실시간 자동매매 대시보드](https://github.com/gatsby6060/260616_bitsum/blob/main/main1.png?raw=true)](https://github.com/gatsby6060/260616_bitsum)
 
