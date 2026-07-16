@@ -96,7 +96,7 @@
 [![고객관리시스템](https://github.com/gatsby6060/vue_express_20250908/blob/main/resultphotos/login.png?raw=true)](https://github.com/gatsby6060/vue_express_20250908)
 
 - 고객 소개 및 결제 기반 열람 시스템
-- Vue + Node.js + Oracle
+- Vue.js + Node.js + Oracle
 - 사장/직원/고객 권한 분리, 결제 후 정보 열람
 - 주소 기반 위경도 변환 및 지도 표시
 
@@ -112,6 +112,7 @@
 
 - 러닝 커뮤니티 + 쇼핑 플랫폼 (5인 팀 프로젝트)
 - Spring Boot 기반 관리자/사용자 페이지
+- Vue + Spring(java) + Oracle
 - **담당 역할**
   - 마이페이지
   - 결제 API 연동
