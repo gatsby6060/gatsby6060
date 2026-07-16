@@ -83,7 +83,7 @@
 - JWT + OAuth2(Google, Naver, Kakao) 소셜 로그인, Spring Security 기반 인증/인가
 - 관리자 대시보드(상품·카테고리·주문·회원 관리), 마이페이지, 상품 검색/필터/정렬 구현
 
-**Tech Stack**: `Java 21` `Spring Boot 3.5` `Next.js 15` `TypeScript` `Kafka` `Elasticsearch` `Logstash` `Docker` `MariaDB` `JWT` `OAuth2` `ngrok`
+**Tech Stack**: `Java 21` `Spring Boot 3.5` `Next.js 15` `TypeScript` `Kafka` `Elasticsearch` `Logstash` `Docker` `MariaDB` `JWT` `OAuth2` `ngrok` `Vue.js` `Pinia`
 
 👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/jghshopmall)**
 <br>
