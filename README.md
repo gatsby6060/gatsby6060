@@ -112,7 +112,7 @@
 
 - 러닝 커뮤니티 + 쇼핑 플랫폼 (5인 팀 프로젝트)
 - Spring Boot 기반 관리자/사용자 페이지
-- Vue + Spring(java) + Oracle
+- Vue.js + Spring(java) + Oracle
 - **담당 역할**
   - 마이페이지
   - 결제 API 연동
