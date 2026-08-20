@@ -1,7 +1,7 @@
 <!-- 헤더 영역 -->
 <div align="center">
 
-# 👋 안녕하세요. 전경환입니다.
+#  안녕하세요. 전경환입니다.
 
 **문제를 확인하고, 해결하며, AI Agent 파이프라인으로 기존 시스템의 한계를 극복해보겠습니다.**
 
@@ -10,11 +10,11 @@
 ---
 
 ## 💡 About Me
-- 🧑‍🏫 **전산실 출신**으로 꼼꼼함과 계획력을 바탕으로 업무를 주도적으로 수행
-- 🤖 **AI Agent 파이프라인 설계 특화**: LangGraph `StateGraph` 기반 Multi-Agent 시스템 설계, LangChain을 활용한 LLM 서비스 구현, n8n을 통한 외부 시스템 연계 자동화 경험
-- 🧩 **Event-Driven 아키텍처 구축**: Kafka, Webhook, WebSocket 기반 실시간 데이터 처리 및 분산 시스템 설계 경험
-- 🧠 사용자 흐름 중심의 UI/UX 구성 및 구조 설계부터 실행, 문서화까지 책임지는 개발자 지향
-- 📚 정보처리기사, SQLD, 리눅스마스터2급, ADsP, MOS 마스터, BSCM 합격, 빅분기 필기합격
+-  **전산실 출신**으로 꼼꼼함과 계획력을 바탕으로 업무를 주도적으로 수행
+-  **AI Agent 파이프라인 설계 특화**: LangGraph `StateGraph` 기반 Multi-Agent 시스템 설계, LangChain을 활용한 LLM 서비스 구현, n8n을 통한 외부 시스템 연계 자동화 경험
+-  **Event-Driven 아키텍처 구축**: Kafka, Webhook, WebSocket 기반 실시간 데이터 처리 및 분산 시스템 설계 경험
+-  사용자 흐름 중심의 UI/UX 구성 및 구조 설계부터 실행, 문서화까지 책임지는 개발자 지향
+-  정보처리기사, SQLD, 리눅스마스터2급, ADsP, MOS 마스터, BSCM 합격, 빅분기 필기합격
 
 
 ---
@@ -35,9 +35,9 @@
 
 ---
 
-## 🤖 AI Agent / Automation Projects
+##  AI Agent / Automation Projects
 
-### 🪙 BTC/ETH/XRP/USDT 실시간 자동매매 & GPU 최적화 퀀트 봇 (Multi-Agent 시스템)
+###  BTC/ETH/XRP/USDT 실시간 자동매매 & GPU 최적화 퀀트 봇 (Multi-Agent 시스템)
 [![260616_bitsum](https://img.shields.io/badge/GitHub-260616__bitsum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatsby6060/260616_bitsum)
 [![실시간 자동매매 대시보드](https://github.com/gatsby6060/260616_bitsum/blob/main/main1.png?raw=true)](https://github.com/gatsby6060/260616_bitsum)
 
@@ -60,10 +60,10 @@
 - **시각적 데이터 파이프라인**: 매매 데이터를 n8n Webhook으로 수신하여 텔레그램 알림 발송과 Google Sheets 매매 일지 자동 기록을 동시 처리.
 - **유연한 확장 및 안정성**: TradingView 외부 시그널 연계(FastAPI `/api/tickers/control`) 구조 설계 및 n8n 미설정 시 로컬 알림으로 우회하는 Fallback 전략 적용. 👉 **[(n8n 연동 실습 기록)](https://app.notion.com/p/N8N-372d783cc6618069b636d9e54f420d5a)**
 
-> *"거대한 데이터를 빠르고 안정적으로 다루는 기술, 최적화로 스스로의 한계를 돌파하는 것을 즐깁니다."*
+<!-- > *"거대한 데이터를 빠르고 안정적으로 다루는 기술, 최적화로 한계를 돌파하는 것을 즐깁니다."* -->
 
 **Tech Stack**: `Python`, `FastAPI`, `CuPy / NumPy`, `LangGraph`, `LangChain`, `Gemini / OpenAI API`, `WebSocket`, `n8n`, `Pandas`  
-👉 **[프로젝트 상세 보기](https://github.com/gatsby6060/260616_bitsum)**
+ **[프로젝트 상세 보기](https://github.com/gatsby6060/260616_bitsum)**
 <br>
 <br>
 
